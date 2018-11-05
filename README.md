@@ -1,5 +1,5 @@
-½«ÍøÒ×ÔÆÒôÀÖµÄ»º´æÎÄ¼þ½âÃÜµÃµ½ MP3 ÎÄ¼þ
+å°†ç½‘æ˜“äº‘éŸ³ä¹çš„ç¼“å­˜æ–‡ä»¶è§£å¯†å¾—åˆ° MP3 æ–‡ä»¶
 
-1¡¢ÔÚÆô¶¯ÏîÄ¿ÀàStartMainÅäÖÃÍøÒ×ÔÆÒôÀÖµÄ»º´æÎÄ¼þÄ¿Â¼ºÍÊä³öÄ¿Â¼
+1ã€åœ¨å¯åŠ¨é¡¹ç›®ç±»StartMainé…ç½®ç½‘æ˜“äº‘éŸ³ä¹çš„ç¼“å­˜æ–‡ä»¶ç›®å½•å’Œè¾“å‡ºç›®å½•
 
-2Æô¶¯StartMain¼´¿É
+2ã€å¯åŠ¨StartMainå³å¯
